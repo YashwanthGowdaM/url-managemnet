@@ -1,0 +1,18 @@
+{
+  "ServiceNow": [
+    {
+      "name": "Unified Ops Dashboard",
+      "url": "https://example.com/ops"
+    },
+    {
+      "name": "RITM - Monitoring View",
+      "url": "https://example.com/monitoring"
+    }
+  ],
+  "Yashwanth": [
+    {
+      "name": "linked in",
+      "url": "https://hiqode.in/course/devops-aws/#curriculum"
+    }
+  ]
+}
